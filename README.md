@@ -1,4 +1,6 @@
 # Optimal Multiple Importance Sampling の数値計算手法の実装
+Optimal Multiple Importance Sampling Numerical Calculation Method Implementation
+
 ## 概要
 論文で提案されている最適な重み付け関数を実装し、既存のものと比較しました。
 
