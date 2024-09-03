@@ -74,7 +74,7 @@ variance_optimal = np.mean([(x - 1.0)**2 for x in estimated_values_optimal])
 
 # 分散計算はf/pの1.0周りの分散
 
-print("目標値: 1.0")
+print("target value: 1.0")
 print("p1:" + str(estimated_value_p1))
 print("p2:" + str(estimated_value_p2))
 print("p3:" + str(estimated_value_p3))
