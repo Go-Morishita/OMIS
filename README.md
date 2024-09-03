@@ -8,7 +8,7 @@ https://dl.acm.org/doi/10.1145/3306346.3323009
 ![image](https://github.com/user-attachments/assets/6080e880-f76e-4577-8b13-51273169ada0)
 
 ## Implementation Results
-![image](https://github.com/user-attachments/assets/9ac1bcc8-6bc5-40a4-b920-fe677ab2497b)
+![image](https://github.com/user-attachments/assets/8d4fafb7-c976-42d3-aadd-d9419b98742f)
 ![Figure_1](https://github.com/user-attachments/assets/e1340d31-9fbd-4dfb-89c7-5974840b4997)
 
 
@@ -22,6 +22,6 @@ https://dl.acm.org/doi/10.1145/3306346.3323009
 ![image](https://github.com/user-attachments/assets/6080e880-f76e-4577-8b13-51273169ada0)
 
 ## 実装結果
-![image](https://github.com/user-attachments/assets/9ac1bcc8-6bc5-40a4-b920-fe677ab2497b)
+![image](https://github.com/user-attachments/assets/ff0195e9-6fcb-4104-a41c-995c606cef5e)
 ![Figure_1](https://github.com/user-attachments/assets/e1340d31-9fbd-4dfb-89c7-5974840b4997)
 
