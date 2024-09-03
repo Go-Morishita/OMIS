@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 
 def plot_graphs(n, x_start, x_end, step, y_start, y_end, f, p1, p2, p3, balance_weight_process, power_weight_process, optimal_weight_process, convergent_process):
     # グラフの描画
-    fig, axes = plt.subplots(2, 5, figsize=(15, 6))
-    (ax1, ax2, ax3, ax4, ax5), (ax6, ax7, ax8, ax9, ax10) = axes
+    fig, axes = plt.subplots(1, 5, figsize=(15, 3))
+    (ax1, ax2, ax3, ax4, ax5) = axes
     # 関数の描画（一段目）
     x = np.arange(x_start, x_end, step)
     ax1.plot(x, f(x), label='f', color='black')
