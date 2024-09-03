@@ -5,7 +5,7 @@ I implemented the optimal weighting function proposed in the paper and compared 
 
 ## Original Paper
 https://dl.acm.org/doi/10.1145/3306346.3323009
-![image](https://github.com/user-attachments/assets/6080e880-f76e-4577-8b13-51273169ada0)
+![image](https://github.com/user-attachments/assets/b1e0597c-84dc-4cee-8d48-4905d6eb0506)
 
 ## Implementation Results
 ![image](https://github.com/user-attachments/assets/8d4fafb7-c976-42d3-aadd-d9419b98742f)
@@ -19,7 +19,7 @@ https://dl.acm.org/doi/10.1145/3306346.3323009
 
 ## 元論文
 https://dl.acm.org/doi/10.1145/3306346.3323009
-![image](https://github.com/user-attachments/assets/6080e880-f76e-4577-8b13-51273169ada0)
+![image](https://github.com/user-attachments/assets/ed9c41be-ebf7-444a-aeda-54dab6b0dbe7)
 
 ## 実装結果
 ![image](https://github.com/user-attachments/assets/ff0195e9-6fcb-4104-a41c-995c606cef5e)
