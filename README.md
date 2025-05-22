@@ -1,4 +1,4 @@
-# Optimal Multiple Importance Sampling Numerical Calculation Method Implementation
+# Optimal Multiple Importance Sampling Method Implementation
 
 ## Overview
 I implemented the optimal weighting function proposed in the paper and compared it with existing methods.
